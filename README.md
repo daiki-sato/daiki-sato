@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daiki</h1>
-<h3 align="center">frontend and backend developer</h3>
+<h2 align="center">frontend and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daiki-sato&label=Profile%20views&color=0e75b6&style=flat" alt="daiki-sato" /> </p>
 
@@ -10,8 +10,8 @@
 </p>
 
 
-### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,react,redux,nextjs,vue,sass,tailwind,vite,firebase,vercel,laravel,p5js,php,postgres,postman,r,ruby,rails,bootstrap,discord,docker,aws,vscode,git,github,githubactions,figma" />
+## 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,p5js,jquery,react,vite,redux,nextjs,vue,html,css,sass,tailwind,firebase,vercel,laravel,php,r,ruby,rails,bootstrap,postgres,postman,discord,docker,aws,vscode,git,github,githubactions,figma" />
 
 
 ## 📈 Status
